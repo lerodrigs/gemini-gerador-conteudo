@@ -1,2 +1,2 @@
 # gemini-gerador-conteudo
-Gerador de conteudo por IA
+Gerador de conteudo e chat generativo por IA
